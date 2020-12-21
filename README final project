@@ -1,0 +1,5 @@
+# AU590896-Nielsen-Christian
+The script cleans and visualizes Freedom House data from 1972 to 2019.
+The data contains variables for political rights, civil liberties and freedom status for every country in the world, and variables for the overall distribution of free, partly free and not free countries in the world. 
+The visualizations are used to assess if the world is facing a global democratic crisis, and it is also shown how you can make visualizations for specific countries, you are interested in researching.
+The source function creates all relevant data frames and vectors, but the commands constructing the plots have to be run individually (These are found on line 118, 150, and 175). 
