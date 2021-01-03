@@ -1,6 +1,6 @@
 Provenance:
 The data used ("Country and Territory Ratings and Statuses, 1973-2020") and other Freedom House data can be downloaded from: https://web.archive.org/web/20201209152930/https://freedomhouse.org/report/freedom-world
-Line 41 in the script also downloads it, and the data is also available in this repository with the name "FH_raw".
+Line 41 in the script also downloads it (directly to your R project), and the data is also available in this repository with the name "FH_raw".
 
 License:
 The usage permissions for Freedom House data are available here: https://freedomhouse.org/about-us/content-permissions
