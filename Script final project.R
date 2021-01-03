@@ -183,7 +183,6 @@ fh_east_plot %>%
   geom_vline(xintercept = 1989) +
   labs(title = "Freedom in Eastern European countries", x = "Year", y = "Repression of political rights and civil liberties") +
   theme_bw()
-
 ## I plot year on the x-axis and freedom score on the y-axis.
 ## The line for each country is then added with individual commands.
 ## They are then colored and labeled.
