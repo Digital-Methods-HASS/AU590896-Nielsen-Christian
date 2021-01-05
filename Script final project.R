@@ -17,12 +17,12 @@
 ###################### Installing and activating packages ######################
 
 ## Install the following packages, if you do not already have them.
-#install.packages(downloader)
-#install.packages(readxl)
-#install.packages(tidyr)
-#install.packages(reshape2)
-#install.packages(dplyr)
-#install.packages(ggplot2)
+#install.packages("downloader")
+#install.packages("readxl")
+#install.packages("tidyr")
+#install.packages("reshape2")
+#install.packages("dplyr")
+#install.packages("ggplot2")
 
 ## Activate the packages.
 library(downloader) ## Used For downloading from https sites.
